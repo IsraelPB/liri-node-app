@@ -13,23 +13,32 @@ MUST use your own API keys.
 # Installation required
 
 [Node.js]
-(https://nodejs.org/en/)
+(https://nodejs.org/en/) 
+
 [Node-File-System] 
 (https://nodejs.org/api/fs.html)
+
 [Axios]
 (https://www.npmjs.com/package/axios)
+
 [DotEnv] 
 (https://www.npmjs.com/package/dotenv)
+
 [JavaScript]
 (https://www.javascript.com/)
+
 [Moment.js]
 (https://www.npmjs.com/package/moment)
+
 [OMDB-API] 
 (http://www.omdbapi.com)
+
 [Bandsintown-API]
 (http://www.artists.bandsintown.com/bandsintown-api)
+
 [Node-Spotify-API]
 (https://www.npmjs.com/package/node-spotify-api)
+
 
 
 # How to use
@@ -51,7 +60,8 @@ node liri.js movie-this <movie-name>
 This command searches the OMDB API through Axios ("http://www.omdbapi.com/?t=" + userQuery + "&y=&plot=short&apikey=" + keys.movies.id) and returns information about the movie the user input. It includes Title: , Year Released: , IMDB Rating: , Rotten Tomatoes Rating: , Country/Countries Produced: , Language: , Plot: , and Cast: . If no movie is entered, the API automatically searches Mr. Nobody for the user, as well as letting them know that they should check it out, notifying the user that it's on Netflix, and providing a link to the IMDB page for the movie.
 
 # Video example
-<iframe src="https://drive.google.com/file/d/1pj_hJe5n-_xrmnCJXwDzWPxgd1Xcni_i/preview" width="640" height="480"></iframe>
+Follow the link to view a brief demonstration of the app in action!
+https://youtu.be/sn87JeXOv9w
 
 
 
