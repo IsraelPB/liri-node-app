@@ -59,6 +59,10 @@ node liri.js spotify-this-song <song-name>
 This command searches the Spotify Web API that runs on Node.js (spotify.search({type: "track", query: userQuery}, function(err, data)) and returns information about the song the user input. It includes Artist: , Song Name: , and Preview Link: , and Album: . If no artist is entered, the API automatically searches "The Sign" by Ace of Base for the user.
 
 TO search for a movie....
+![liri2](https://user-images.githubusercontent.com/43567870/49641392-dce98d80-f9c4-11e8-81db-af042e2edfa0.png)
+
+
+
 
 node liri.js movie-this <movie-name>
 
