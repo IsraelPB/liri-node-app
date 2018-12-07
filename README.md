@@ -48,6 +48,15 @@ MUST use your own API keys.
 
 
 To search for upcoming concerts....
+
+
+
+![liri3](https://user-images.githubusercontent.com/43567870/49641453-07d3e180-f9c5-11e8-8b70-87eb0ca25062.png)
+
+
+
+
+
 node liri.js concert-this <artist/band-name>
 
 This command searches the Bands in Town Artist Events API through Axios ("https://rest.bandsintown.com/artists/" + userQuery + "/events?app_id=" + keys.bands.id) and returns events the artist is appearing at in the near future. It includes Venue Name: , Venue Location: , and Date of the Event: . If no artist is entered, the API automatically searches Metallica for the user ;).
