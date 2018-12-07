@@ -1,3 +1,4 @@
+console.log('Locked and Loaded Baby!');
 
 
 exports.spotify = {
