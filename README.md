@@ -1,5 +1,5 @@
 # liri-node-app
-Mimics liri in terminal using node
+Mimics SIRI in terminal using node
 
 # Overview
 
