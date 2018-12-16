@@ -2,7 +2,7 @@
 Mimics SIRI in terminal using node
 
 
-![winged](https://user-images.githubusercontent.com/43567870/50050405-df2ba600-00ae-11e9-93f6-5b33d78a4a90.gif)
+
 
 
 
